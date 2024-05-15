@@ -19,7 +19,7 @@ https://github.com/JpCode01/movie-night/assets/165571084/4441d61b-c9ba-4b32-bc84
 
 <br>
 
-## ✔️ Técnicas e Funcinalidades
+## ✔️ Técnicas 
 <br>
 <div style="display: inline_block">
   <img align="center" alt="jp-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
